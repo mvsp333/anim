@@ -1,0 +1,38 @@
+
+         body
+         {
+            background-color: powderblue;
+
+         }
+         hr
+         {
+           background-color: none;
+           border-style: dotted none none;
+           border-color: grey;
+           border-width: 4px;
+            height: 0px;
+           width: 5%;
+         }
+
+         img{
+
+           height: 350px
+         }
+
+          h1{
+            color: brown;
+            text-align: center;
+          }
+          h2{
+            text-align: center;
+          }
+
+          h3{
+            color: blue;
+            text-align: center;
+          }
+          p{
+            color: red;
+            text-align: none;
+
+          }
